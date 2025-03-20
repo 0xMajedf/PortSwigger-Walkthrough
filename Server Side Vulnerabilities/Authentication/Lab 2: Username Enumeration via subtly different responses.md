@@ -15,5 +15,5 @@ End Goal: Find the correct username and password and login to the account
 4. after identifying a valid username by filtering the response code now start brute forcing the password paramter with the provided wordlist -> 302 Found
 - creds: albuquerque:ranger
 
-
+5. Login to the account
 
