@@ -14,7 +14,6 @@ This lab is vulnerable due to a logic flaw in its password brute-force protectio
 
 2. create a wordlist of usernames, (carlos, wiener) only with python and add the the provided candidate passwords list in the python code
 
-------------------------------------------------------------
 print("#### the follwing are the usernames")
 for i in range(150):
     if i % 3:
@@ -35,7 +34,6 @@ for pwd in lines:
         print(pwd.strip('\n'))
         i = i+1
     i = i+1
--------------------------------------------------------------
 
 3. run the code u will see carlos, wiener arranged 1 by 1 like this and passwors list down below
 
